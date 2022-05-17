@@ -34,6 +34,8 @@ Given more time i would:
 2. On terminal, execute `pnpm install`
 3. Execute `pnpm run dev`
 
+Execute `pnpm run test` to run unit testing
+
 ## TREE
 
 ```text
