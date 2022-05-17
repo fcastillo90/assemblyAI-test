@@ -1,5 +1,7 @@
 # AssemblyAI assessment
 
+[Figma](https://www.figma.com/file/fKtSrkIuahQo0gXmj4qyAr/Front-End-Assessment-(Mock-ups)?node-id=0%3A1)
+
 ## Content
 
 - [X] React v18
